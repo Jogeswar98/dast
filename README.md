@@ -34,13 +34,21 @@ sudo snap install zaproxy --classic
 zaproxy
 ```
 Ensure that your application or api should be running before using this service.
+
 <img src="https://github.com/user-attachments/assets/2c80716f-71fb-4646-a2a4-cab51ad57837" alt="Terraform" width="1000" height="500">
+
 ### Steps 4. Enter the API URL into the 'Attack' input field for scanning
+
 <img src="https://github.com/user-attachments/assets/fbc50ca7-e47a-423f-99df-549fe9012a62" alt="Terraform" width="1000" height="500">
+
 ### Steps 5. Wait for result
+
 <img src="https://github.com/user-attachments/assets/7470809d-5663-40fc-a7ab-802acf51418b" alt="Terraform" width="1000" height="500">
+
 ### Steps 6. Result
+
 <img src="https://github.com/user-attachments/assets/1ef676b3-3913-4a02-a7d5-fa436d83e6d3" alt="Terraform" width="1000" height="500">
+
 ---
 ## Report
 | Link         | Description         |
@@ -48,13 +56,12 @@ Ensure that your application or api should be running before using this service.
 | [DAST](https://github.com/snaatak-Zero-Downtime-Crew/Documentation/blob/Pravesh-SCRUM-101/Application%20CI%20Design/Frontend%20CI%20checks/DAST/Report/2025-03-09-ZAP-Report-Frontend.pdf)| Report |
 ---
 ## Conclusion
-DAST tests apps during real-world attacks, helping find vulnerabilities early. Using tools like OWASP ZAP and Burp Suite ensures apps are secure before deployment, protecting both the app and the company's reputation.
+
+DAST tests apps during real-world attacks, helping find vulnerabilities early. Using tools like OWASP ZAP and Burp Suite ensures apps are secure before deployment, protecting both the app and the company's reputation
+
 ---
-## Contact Information
-| Name | Email | GitHub |
-|------|--------------------------|----------------|
-| Pravesh Kumar | pravesh.kumar@mygurukulam.co | pravesh1204 |
----
+
+
 ## References
 | Link | Description |
 |------|-------------|
