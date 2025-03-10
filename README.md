@@ -1,19 +1,5 @@
-# dast
 
-# POC on DAST
----
-| Author          | Created on  | Version   | Last updated by  | Last edited on | Level | Reviewer |
-|----------------|------------|-----------|-----------------|---------------|------------------|-------------|
-| Pravesh Kumar | 08-03-2025 | V1  | Pravesh Kumar | 09-03-2025    |  |             |       
----
-## Table of Contents
-- [Pre-requisite](#pre-requisite)
-- [DAST using OWASP ZAP](#dast-using-owasp-zap)
-- [Report](#report)
-- [Conclusion](#conclusion)
-- [Contact](#contact)
-- [Reference](#reference)
----
+
 ## Pre-requisite
 - OWASP ZAP
 - A Running Application to Perform DAST.
